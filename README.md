@@ -1,16 +1,30 @@
-### Hi there 👋
+<p align="center">
+  <img src="profile_picture.jpg" alt="Profile Picture" width="120" height="120">
+</p>
 
-<!--
-**graceashfield/graceashfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Grace! 👋
 
-Here are some ideas to get you started:
+🌟 Aspiring Software Engineer with a passion for creating and innovating.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ℹ About Me
+🎓 Entering my senior year of Software Engineering  
+👩‍💻 I have completed three internships as an SDET and one as a Scrum Master
+
+
+## 💼 Tech Stack
+
+🌟 **Languages:** Python, Javascript   
+🔧 **Tools:** Git, VS Code  
+
+
+## 🌱 Currently Learning
+💻 **Front-end:** HTML, CSS 
+
+## 📫 Let's Connect!
+
+🌟 [LinkedIn](https://www.linkedin.com/in/graceashfield/) 
+💌 [Email](mailto:grace.ashfield@unb.ca)
+
+Keep blooming and keep coding! 🌷✨
+
+
